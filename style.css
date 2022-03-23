@@ -4,7 +4,10 @@
     overflow:hidden;
     }
 
-
+    body{
+        position: relative;
+    }
+    
     .logo{
     margin-left: 770px;
     margin-top: 150px;
